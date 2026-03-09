@@ -1,1 +1,1 @@
-# poc-go-routines-circuit-breaker
+some golang circuit breker studies
